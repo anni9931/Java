@@ -26,5 +26,10 @@ public class DataTypes {
         }else {
             System.out.println("You are a teenager so you can't vote");
         }
+
+        //This is a single line comment in Java
+        /**
+         * This is a multi-line comment in java
+         */
     }
 }
