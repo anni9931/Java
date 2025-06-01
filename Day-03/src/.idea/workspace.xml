@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="88bbf428-6032-4528-94ce-e4b213387a1f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Day-02/Day-02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day-02/src/Hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day-02/src/Notes.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day-02/src/Notes1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-03.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notes.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Variable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day-01/src/First.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day-01/src/First.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day-01/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day-01/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/Day-01/First.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/Day-01/First.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "anni9931"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/anni9931/Java.git",
+    "accountId": "8d4c30fb-b0a8-4120-b352-1b04556a2ce7"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2xu0weqH6OV14AhqH5Ygf1sAPnv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="88bbf428-6032-4528-94ce-e4b213387a1f" name="Changes" comment="" />
+      <created>1748772890690</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1748772890690</updated>
+    </task>
+    <servers />
+  </component>
+</project>
