@@ -118,5 +118,41 @@ public class Ifelse {
 ## Logical Operator
 > Types: &&(AND), ||(or),09yt dz 
 
-## If -else Condition.
 
+
+# Bitwise Operators in Java
+
+Bitwise operators are used to perform operations on individual bits of integers.
+
+## 🔧 List of Bitwise Operators
+
+| Operator | Name                   | Example     | Description                           |
+|----------|------------------------|-------------|---------------------------------------|
+| `&`      | Bitwise AND            | `a & b`     | 1 if both bits are 1                  |
+| `|`      | Bitwise OR             | `a | b`     | 1 if at least one bit is 1           |
+| `^`      | Bitwise XOR            | `a ^ b`     | 1 if bits are different               |
+| `~`      | Bitwise Complement     | `~a`        | Inverts all bits                      |
+| `<<`     | Left Shift             | `a << 2`    | Shifts bits left (multiplies by 2ⁿ)  |
+| `>>`     | Right Shift            | `a >> 2`    | Shifts bits right (keeps sign bit)   |
+| `>>>`    | Unsigned Right Shift   | `a >>> 2`   | Shifts bits right, fills with 0      |
+
+## 🧪 Example in Java
+
+```java
+public class BitwiseExample {
+    public static void main(String[] args) {
+        int a = 5;  // 0101
+        int b = 3;  // 0011
+
+        System.out.println("a & b = " + (a & b));  // 1
+        System.out.println("a | b = " + (a | b));  // 7
+        System.out.println("a ^ b = " + (a ^ b));  // 6
+        System.out.println("~a = " + (~a));        // -6
+        System.out.println("a << 1 = " + (a << 1)); // 10
+        System.out.println("a >> 1 = " + (a >> 1)); // 2
+        System.out.println("a >>> 1 = " + (a >>> 1)); // 2
+    }
+}
+```
+
+> Note : Bitwise operator only work on integer types (byte,short,int,long) in java.
