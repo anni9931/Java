@@ -59,4 +59,64 @@ public class Operation {
 
  ```
 
- 
+## If - else statements.
+
+: if-else is a statement that is use in condition check true and false.
+
+`Syntax`
+: Uses **if () {}** to check a condition.
+
+`if` : if the condition is true run a block of code. 
+
+`else` : Executes a block when the if condition is **false**.
+
+`if-else ladder` : Multiple if and else if blocks; `only one` executes.
+
+
+`Examples`
+```Java
+public class Ifelse {
+
+    public static void main(String[] args) {
+        // boolean isMale = false;
+        // boolean isanIndian = true;
+
+        int a = 33;
+        int b =99;
+
+        System.out.println("before if");
+        if (a<=b) {
+            // System.out.println("proud of Indian");
+            if (a>b) {
+                System.out.println("a is greater than b");
+
+            } else  {
+                System.out.println("b is greater than a");
+            }
+        }
+    }
+}
+
+```
+
+## Relational Operators.
+### Equality
+- `==` : checks value equality.
+- `===`: checks value and type equality.
+
+### Inequality
+- `!=` : Checks value inequality.
+- `!==` : Checks value and type inequality.
+
+### Relation
+
+- `>` : Greater than.
+- `<` : Less than.
+- `>=` : Greater than or Equal to.
+- `<=` : Less than or Equal to.
+
+## Logical Operator
+> Types: &&(AND), ||(or),09yt dz 
+
+## If -else Condition.
+

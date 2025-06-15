@@ -9,6 +9,8 @@ public class Fahrenheit {
         float fah = input.nextFloat();
         float cel = (fah - 32) * 5 / 9;
         System.out.println("Your temperature is : " + cel + "cell");
+        
+        
 
     }
 }
